@@ -74,7 +74,7 @@ function App() {
       date: '01/01/2020',
       strain: 'cepa: YYYY',
       position: [-2657.6219512195116, 1650.5791505791508],
-      photos: ['https://i.imgur.com/rJmehTX.jpeg', 'https://i.imgur.com/Vgi5ZKU.png'],
+      photos: ['https://i.imgur.com/gQLyqlP.jpeg', 'https://i.imgur.com/Vgi5ZKU.png'],
       report: '#0002'
     },
     {
