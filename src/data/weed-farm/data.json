@@ -1,0 +1,42 @@
+[
+  {
+    "date": "01/01/2020",
+    "strain": "cepa: XXXXX-XXXXX-XXXXX",
+    "position": [
+      -2686.585365853658,
+      1481.6602316602318
+    ],
+    "photos": [
+      "https://i.imgur.com/rJmehTX.jpeg",
+      "https://i.imgur.com/vu0QMiB.png"
+    ],
+    "report": "#0001"
+  },
+  {
+    "date": "01/01/2020",
+    "strain": "cepa: YYYY 00000000 YYYYYY",
+    "position": [
+      -2657.6219512195116,
+      1650.5791505791508
+    ],
+    "photos": [
+      "https://i.imgur.com/gQLyqlP.jpeg",
+      "https://i.imgur.com/Vgi5ZKU.png"
+    ],
+    "report": "#0002"
+  },
+  {
+    "date": "01/01/2020",
+    "strain": "cepa: ZZZZZZZ",
+    "position": [
+      -1428.9634146341457,
+      -937.4999999999999
+    ],
+    "photos": [
+      "https://i.imgur.com/Iv6V3zG.jpeg",
+      "https://i.imgur.com/nrIIIJl.jpeg",
+      "https://i.imgur.com/ckvL5Ss.png"
+    ],
+    "report": "#0003"
+  }
+]
