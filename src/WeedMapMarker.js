@@ -6,7 +6,8 @@ import { Avatar, Button, Divider, Grid, Typography } from '@mui/material';
 const weedIcon = new Icon(
   {
     iconUrl: '/weed.png',
-    iconSize: [50, 50]
+    iconSize: [50, 50],
+    iconAnchor: [25, 35]
   }
 );
 
