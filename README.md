@@ -17,6 +17,6 @@ JSON:
 
 # TODO
 - [x] Pintar o background com a cor do mapa - rgb(21,62,106)
-- [] Botao de centralizar
-- [] Separar os jsons
-- [] Ver se é possivel fechar o POPUP quando abrir a dialog
+- [ ] Botao de centralizar
+- [ ] Separar os jsons
+- [ ] Ver se é possivel fechar o POPUP quando abrir a dialog
